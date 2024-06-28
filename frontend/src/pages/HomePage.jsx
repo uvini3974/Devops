@@ -26,7 +26,7 @@ function HomePage() {
       }}
     >
       <Typography variant="h2" component="h1" gutterBottom>
-        Welcome to JR Car Parking
+        Welcome to JRA Car Parking
       </Typography>
       <img src={carImageUrl} alt="Car Parking" style={{ maxWidth: '100%', height: 'auto', marginBottom: '20px' }} />
       <Button variant="contained" color="primary">
